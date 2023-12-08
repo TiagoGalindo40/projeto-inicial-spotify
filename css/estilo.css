@@ -73,6 +73,12 @@ nav.navbar-transparente {
 }
 /*----Fim da Capa----*/
 
+/*---Carousel capa---*/
+.carousel-control-next, .carousel-control-prev {
+    width: 5%;
+    
+}
+
 /*---Estrutura de conteúdos---*/
 .caixa {
     padding-top: 20px;
